@@ -14,5 +14,8 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
+  },
+  "stackblitz": {
+      "startCommand": "npm run start"
   }
 }
